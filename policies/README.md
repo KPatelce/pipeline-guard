@@ -38,10 +38,3 @@ by pipeline-guard's IaC scanner:
 3. Add a fixture (or extend an existing one) under `fixtures/` that
    exercises both the "violates" and "passes" cases.
 4. Add a unit test asserting the exact `rule_id` and `severity` produced.
-
-## Maintainer
-
-Maintained by Dev Bhatt, a data analyst with over six years of experience building automated pipelines, controls, and analytics solutions.
-
-- Email: [devbhattwork27@gmail.com](mailto:devbhattwork27@gmail.com)
-- LinkedIn: [linkedin.com/in/dev-bhatt27](https://linkedin.com/in/dev-bhatt27)

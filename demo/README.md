@@ -89,10 +89,3 @@ judgment call pipeline-guard deliberately refuses to make silently: what the
 *intended* network topology is, whether public access is actually required,
 or what resource ceiling is safe for that workload. See
 `src/pipeline_guard/autofix.py`'s module docstring for the exact criteria.
-
-## Maintainer
-
-Dev Bhatt maintains this project, with a focus on reliable automation, controls, and risk indicators.
-
-- LinkedIn: [linkedin.com/in/dev-bhatt27](https://linkedin.com/in/dev-bhatt27)
-- Email: [devbhattwork27@gmail.com](mailto:devbhattwork27@gmail.com)

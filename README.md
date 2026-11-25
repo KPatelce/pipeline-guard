@@ -2,8 +2,6 @@
 
 A shift-left security gate for CI: it scans container images and infrastructure-as-code on every pull request, scores the findings against a threshold, and blocks the merge, with an auto-fix branch for the mechanical remediations.
 
-[![CI](https://github.com/SlateGitOrg/pipeline-guard/actions/workflows/ci.yml/badge.svg)](https://github.com/SlateGitOrg/pipeline-guard/actions/workflows/ci.yml)
-
 ![pipeline-guard](assets/hero.png)
 
 ## Why
@@ -139,7 +137,6 @@ MIT - see [LICENSE](LICENSE).
 
 ## Maintainer
 
-Maintained by Dev Bhatt, a data analyst with 6+ years of experience building automated pipelines, controls and analytics. His work focuses on risk indicators, reconciliation and automation.
+Maintained by **Kashish Patel**, Senior Software Engineer and Technical Lead.
 
-- Email: [devbhattwork27@gmail.com](mailto:devbhattwork27@gmail.com)
-- LinkedIn: [linkedin.com/in/dev-bhatt27](https://linkedin.com/in/dev-bhatt27)
+For project inquiries, contact [kashish.patel@belvionus.com](mailto:kashish.patel@belvionus.com).
